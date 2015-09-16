@@ -1,0 +1,60 @@
+[submodule "goldendict-git"]
+	path = goldendict-git
+	url = ssh+git://aur@aur.archlinux.org/goldendict-git.git
+[submodule "fortune-mod-montypython"]
+	path = fortune-mod-montypython
+	url = ssh+git://aur@aur.archlinux.org/fortune-mod-montypython.git
+[submodule "fortune-mod-multidesk"]
+	path = fortune-mod-multidesk
+	url = ssh+git://aur@aur.archlinux.org/fortune-mod-multidesk.git
+[submodule "xtrkcad-hg"]
+	path = xtrkcad-hg
+	url = ssh+git://aur@aur.archlinux.org/xtrkcad-hg.git
+[submodule "xtrkcad"]
+	path = xtrkcad
+	url = ssh+git://aur@aur.archlinux.org/xtrkcad.git
+[submodule "fortune-mod-metalfairytale-git"]
+	path = fortune-mod-metalfairytale-git
+	url = ssh+git://aur@aur.archlinux.org/fortune-mod-metalfairytale-git.git
+[submodule "fortune-mod-metalfairytale-fr-git"]
+	path = fortune-mod-metalfairytale-fr-git
+	url = ssh+git://aur@aur.archlinux.org/fortune-mod-metalfairytale-fr-git.git
+[submodule "fortune-mod-protolol-git"]
+	path = fortune-mod-protolol-git
+	url = ssh+git://aur@aur.archlinux.org/fortune-mod-protolol-git.git
+[submodule "gnu-cobol"]
+	path = gnu-cobol
+	url = ssh+git://aur@aur.archlinux.org/gnu-cobol.git
+[submodule "fortune-mod-husse"]
+	path = fortune-mod-husse
+	url = ssh+git://aur@aur.archlinux.org/fortune-mod-husse.git
+[submodule "minetestmapper-git"]
+	path = minetestmapper-git
+	url = ssh+git://aur@aur.archlinux.org/minetestmapper-git.git
+[submodule "phplint11"]
+	path = phplint11
+	url = ssh+git://aur@aur.archlinux.org/phplint11.git
+[submodule "goldendict-qt5-git"]
+	path = goldendict-qt5-git
+	url = ssh+git://aur@aur.archlinux.org/goldendict-qt5-git.git
+[submodule "rakarrack-git"]
+	path = rakarrack-git
+	url = ssh+git://aur@aur.archlinux.org/rakarrack-git.git
+[submodule "openav-luppp-git"]
+	path = openav-luppp-git
+	url = ssh+git://aur@aur.archlinux.org/openav-luppp-git.git
+[submodule "openav-fabla-git"]
+	path = openav-fabla-git
+	url = ssh+git://aur@aur.archlinux.org/openav-fabla-git.git
+[submodule "openav-sorcer-git"]
+	path = openav-sorcer-git
+	url = ssh+git://aur@aur.archlinux.org/openav-sorcer-git.git
+[submodule "openav-artyfx-git"]
+	path = openav-artyfx-git
+	url = ssh+git://aur@aur.archlinux.org/openav-artyfx-git.git
+[submodule "kluppe"]
+	path = kluppe
+	url = ssh+git://aur@aur.archlinux.org/kluppe.git
+[submodule "sooperlooper"]
+	path = sooperlooper
+	url = ssh+git://aur@aur.archlinux.org/sooperlooper.git
