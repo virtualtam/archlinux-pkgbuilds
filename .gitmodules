@@ -61,3 +61,6 @@
 [submodule "iannix-git"]
 	path = iannix-git
 	url = ssh://aur@aur.archlinux.org/iannix-git.git
+[submodule "iannix-qt5-git"]
+	path = iannix-qt5-git
+	url = ssh://aur@aur.archlinux.org/iannix-qt5-git.git
