@@ -58,3 +58,6 @@
 [submodule "sooperlooper"]
 	path = sooperlooper
 	url = ssh+git://aur@aur.archlinux.org/sooperlooper.git
+[submodule "iannix-git"]
+	path = iannix-git
+	url = ssh://aur@aur.archlinux.org/iannix-git.git
