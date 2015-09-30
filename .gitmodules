@@ -64,3 +64,6 @@
 [submodule "iannix-qt5-git"]
 	path = iannix-qt5-git
 	url = ssh://aur@aur.archlinux.org/iannix-qt5-git.git
+[submodule "freewheeling-svn"]
+	path = freewheeling-svn
+	url = ssh://aur@aur.archlinux.org/freewheeling-svn
