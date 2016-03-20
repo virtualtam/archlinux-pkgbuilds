@@ -67,3 +67,6 @@
 [submodule "freewheeling-svn"]
 	path = freewheeling-svn
 	url = ssh://aur@aur.archlinux.org/freewheeling-svn
+[submodule "aseqjoy-git"]
+	path = aseqjoy-git
+	url = ssh://aur@aur.archlinux.org/aseqjoy-git.git
