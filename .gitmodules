@@ -70,3 +70,15 @@
 [submodule "aseqjoy-git"]
 	path = aseqjoy-git
 	url = ssh://aur@aur.archlinux.org/aseqjoy-git.git
+[submodule "raul-git"]
+	path = raul-git
+	url = ssh://aur@aur.archlinux.org/raul-git.git
+[submodule "ganv-git"]
+	path = ganv-git
+	url = ssh://aur@aur.archlinux.org/ganv-git.git
+[submodule "musikernel-git"]
+	path = musikernel-git
+	url = ssh://aur@aur.archlinux.org/musikernel-git.git
+[submodule "machina-git"]
+	path = machina-git
+	url = ssh://aur@aur.archlinux.org/machina-git.git
