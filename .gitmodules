@@ -82,3 +82,6 @@
 [submodule "machina-git"]
 	path = machina-git
 	url = ssh://aur@aur.archlinux.org/machina-git.git
+[submodule "openav-fabla2-git"]
+	path = openav-fabla2-git
+	url = ssh://aur@aur.archlinux.org/openav-fabla2-git
