@@ -91,3 +91,6 @@
 [submodule "darkaudacity-git"]
 	path = darkaudacity-git
 	url = ssh://aur@archlinux.org/darkaudacity-git.git
+[submodule "libgpuarray-git"]
+	path = libgpuarray-git
+	url = ssh://aur@aur.archlinux.org/libgpuarray-git.git
